@@ -2,13 +2,120 @@
 A Big Nerd Doing PAT [it seems a little hard to be accepted by using java, so ...]
 
 ---
+#### [1023. Have Fun with Numbers](https://www.patest.cn/contests/pat-a-practise/1023)
+
+解题思路：
+
+1. 读取大整数为字符串，反转字符串，反转后的大整数与大整数本身相加
+
+2. 将相加结果再进行反转，则为结果
+
+3. 判断原输入字符串与结果字符串各自的所有位包含的0~9的数量
+
+About：大整数相加
+
+---
+#### ~~[1024. Palindromic Number](https://www.patest.cn/contests/pat-a-practise/1024)~~
+
+About：水题
+
+---
+#### ~~[1059. Prime Factors](https://www.patest.cn/contests/pat-a-practise/1059)~~
+
+About：素数表
+
+---
+#### ~~[1061. Dating](https://www.patest.cn/contests/pat-a-practise/1061)~~
+
+About：字符串 水题
+
+---
+#### ~~[1062. Talent and Virtue](https://www.patest.cn/contests/pat-a-practise/1062)~~
+
+About：排序
+
+---
+#### ~~[1063. Set Similarity](https://www.patest.cn/contests/pat-a-practise/1063)~~
+
+About：水题 set
+
+---
+#### ~~[1064. Complete Binary Search Tree](https://www.patest.cn/contests/pat-a-practise/1064)~~
+
+解题思路：
+
+1. 以0 1 2 3 4 5 6 7 8 9而言，我们知道该完全二叉树的中序结果；而且，对于完全二叉树而言，它的底层从左到右依次被填充，前面的层数是满的，因此依次为1,2,4,...
+2. 首先通过size算出最后一层（多余）的节点数，从0开始依次隔一个取数直到该层节点数足够，并从原0 1 2 3 4 5 6 7 8 9删去。之后，上一层从1（剩下数的队首）取，再删去这些被取走的数。依次类推...
+3. 缓存上一步每一层的结果，输出即为结果
+
+About：模式匹配法 溢出
+
+---
+#### ~~[1065. A+B and C (64bit)](https://www.patest.cn/contests/pat-a-practise/1065)~~
+
+> 不该联想到繁琐的大数加法、乘法
+
+About：模式匹配法 溢出
+
+---
+#### [1066. Root of AVL Tree](https://www.patest.cn/contests/pat-a-practise/1066)
+
+About：AVL
+
+---
+#### ~~[1067 Sort with Swap(0,*)](https://www.patest.cn/contests/pat-a-practise/1067)~~
+
+解题思路：
+
+1. 从0所在的位置，找应该在这个位置的元素交换（记录交换次数）
+2. 当0被交换到它自身正确的位置时，判断该序列是否正确：若正确，则返回次数；若不正确，则与任意一个位于不正确位置的元素进行交换
+
+> 线性查找：测试点2,3超时
+> 使用map记录不正确的位置：测试点3超时
+
+---
+#### [1069 The Black Hole of Numbers](https://www.patest.cn/contests/pat-a-practise/1069)
+
+About：字符串数字转换 格式化输出
+
+---
+#### [1070. Mooncake](https://www.patest.cn/contests/pat-a-practise/1070)
+
+注意：
+
+1. the value of amouts can also be float/double
+
+About：贪心算法 排序
+
+---
+#### [1071. Speech Patterns](https://www.patest.cn/contests/pat-a-practise/1071)
+
+注意：
+
+1. 输入没有换行符，要用字符串进行读取
+2. 忽略对空格出现次数的统计
+
+About：map
+
+---
+#### ~~[1072. Gas Station](https://www.patest.cn/contests/pat-a-practise/1072)~~
+
+About：Dijistra
+
+---
+#### ~~[1073_Scientific Notation](https://www.patest.cn/contests/pat-a-practise/1073)~~
+
+About：字符串
+
+---
 #### ~~[1074_Reversing Linked List](https://www.patest.cn/contests/pat-a-practise/1074)~~
 解题思路：
 
-1. 分段反转链表（尤其注意每一段首个节点反转后的next指向）
+分段反转链表（尤其注意每一段首个节点反转后的next指向）
 
 > 然而最后一个测试用例没过
-> About：链表
+
+About：链表
 
 ---
 #### ~~[1075_PAT Judge](https://www.patest.cn/contests/pat-a-practise/1075)~~
@@ -34,6 +141,29 @@ About：排序题
 About：BFS
 
 ---
+#### [1077_Kuchiguse](https://www.patest.cn/contests/pat-a-practise/1077)
+解题思路：
+
+利用二分搜索，递归求解字符串的公共末尾
+> 需要注意从末尾开始找的Kuchiguse需要反转
+
+About：字符串，二分搜索
+
+---
+#### ~~[1078_Hashing](https://www.patest.cn/contests/pat-a-practise/1078)~~
+解题思路：
+
+1. 寻找>=MSize的素数
+2. 对于每个输入的数，进行哈希。
+> 需要注意二次探测法(with positive increments only) 
+
+$$d_{i}=\pm 1^{2},\pm 2^{2},\pm 3^{2}...\pm k^{2} {\displaystyle (k\leq m/2)} (k\leq m/2)称为 平方探测(Quadratic Probing)。$$
+
+> 第二个测试用例没过
+
+About：素数， 哈希
+
+---
 #### ~~[1079_Total Sales of Supply Chain](https://www.patest.cn/contests/pat-a-practise/1079)~~
 解题思路：
 1. 构建表示图
@@ -41,3 +171,82 @@ About：BFS
 3. 当访问到叶子节点时累加该retailer的sales
 
 About：BFS
+
+---
+#### [1080_Graduate Admission](https://www.patest.cn/contests/pat-a-practise/1080)
+
+需要注意最后一个学校没有录取人员的时候，也要输出空行。
+
+> 然而该题测试用例没有对最后一行的换行进行检查
+
+About：排序题
+
+---
+#### ~~[1081_Rational Sum](https://www.patest.cn/contests/pat-a-practise/1081)~~
+
+对每步输入的分数和相加后的分数进行约分。
+> 最后一个测试用例没有通过:浮点错误
+
+About：浮点数
+
+---
+#### [1082_Read Number in Chinese](https://www.patest.cn/contests/pat-a-practise/1082)
+
+判断0是否输出时注意下输入为0的情况
+
+About：数组
+
+---
+#### [1083_ List Grades](https://www.patest.cn/contests/pat-a-practise/1083)
+
+About：数组
+
+---
+#### [1084 Broken Keyboard](https://www.patest.cn/contests/pat-a-practise/1084)
+
+About：set
+
+---
+#### [1085 Perfect Sequence](https://www.patest.cn/contests/pat-a-practise/1085)
+
+TODO顺序搜索会超时
+
+About：二分搜索
+
+---
+#### [1086. Tree Traversals Again](https://www.patest.cn/contests/pat-a-practise/1086)
+
+需要注意到被push的元素顺序也即是前序
+
+About：二叉树 前序、中序、后序遍历
+
+---
+#### [1092. To Buy or Not to Buy](https://www.patest.cn/contests/pat-a-practise/1092)
+
+About：水题
+
+---
+#### [1093_ Count PAT's](https://www.patest.cn/contests/pat-a-practise/1093)
+
+依次计算p的数量，a之前有p的数量，t之前有a之前有p的数量，即可
+
+About：水题
+
+---
+#### ~~[1095 Cars on Campus](https://www.patest.cn/contests/pat-a-practise/1095)~~
+
+1. 先按照同辆车(主)时间(次)顺序排序，过滤无效的进出数据，并计算每辆车的停留时间
+2. 再按照时间顺序排序，依次遍历每项记录并与要求输出的时间节点进行比较，累积或输出该时段内的校内车辆
+> 测试点2,3没过
+
+About：排序
+
+---
+#### [1096 Consecutive Factors](https://www.patest.cn/contests/pat-a-practise/1096)
+
+About：链表 set 格式化输出
+
+---
+#### [1097 Deduplication on a Linked List](https://www.patest.cn/contests/pat-a-practise/1097)
+
+About：链表 set 格式化输出
