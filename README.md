@@ -20,6 +20,70 @@ About：大整数相加
 About：水题
 
 ---
+#### [1051. Pop Sequence](https://www.patest.cn/contests/pat-a-practise/1051)
+
+About：栈 双指针
+
+---
+#### ~~[1052. Linked List Sorting](https://www.patest.cn/contests/pat-a-practise/1052)~~
+
+注意:
+
+处理输入数据中的无效数据
+
+About：链表 排序
+
+---
+#### [1053. Path of Equal Weight](https://www.patest.cn/contests/pat-a-practise/1053)
+
+注意:
+
+可预先对兄弟节点进行排序
+
+About：dfs
+
+---
+#### ~~[1054. The Dominant Color](https://www.patest.cn/contests/pat-a-practise/1054)~~
+
+About：水题 map
+
+---
+#### ~~[1055. The World's Richest](https://www.patest.cn/contests/pat-a-practise/1055)~~
+
+注意:
+
+舍弃每个年龄排名100后的记录，进行剪枝，避免超时
+
+About：排序
+
+---
+#### ~~[1056. Mice and Rice](https://www.patest.cn/contests/pat-a-practise/1056)~~
+
+注意:
+
+舍弃每个年龄排名100后的记录，进行剪枝，避免超时
+
+About：排序
+
+---
+#### ~~[1057. Stack](https://www.patest.cn/contests/pat-a-practise/1057)~~
+
+~~解题思路1
+
+~~PeekMedian操作通过类似快速排序的方式分治求解中位数
+
+解题思路2
+
+通过维护两个multiset(bigset/smallset)，其中bigset中元素从小到大排序，smallset中元素从大到小排，中位数默认为smallset中的第一个元素。
+
+About：set
+
+---
+#### ~~[1058. A+B in Hogwarts](https://www.patest.cn/contests/pat-a-practise/1058)~~
+
+About：水题 进制
+
+---
 #### ~~[1059. Prime Factors](https://www.patest.cn/contests/pat-a-practise/1059)~~
 
 About：素数表
