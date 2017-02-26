@@ -20,6 +20,40 @@ About：大整数相加
 About：水题
 
 ---
+#### [1043. Is It a Binary Search Tree](https://www.patest.cn/contests/pat-a-practise/1043)
+
+About：BST前序转后序
+
+---
+#### ~~[1044. Shopping in Mars](https://www.patest.cn/contests/pat-a-practise/1044)~~
+
+About：区间和
+
+---
+#### ~~[1046. Shortest Distance](https://www.patest.cn/contests/pat-a-practise/1046)~~
+
+解题思路：
+
+构造sum[n+1]数组存放1~i的和
+
+About：水题 区间和
+
+---
+#### ~~[1047. Student List for Course](https://www.patest.cn/contests/pat-a-practise/1047)~~
+
+About：vector的数组 排序
+
+---
+#### ~~[1048. Find Coins](https://www.patest.cn/contests/pat-a-practise/1048)~~
+
+About：水题 数组
+
+---
+#### ~~[1050. String Subtraction](https://www.patest.cn/contests/pat-a-practise/1050)~~
+
+About：appear[256]
+
+---
 #### [1051. Pop Sequence](https://www.patest.cn/contests/pat-a-practise/1051)
 
 About：栈 双指针
