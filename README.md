@@ -20,6 +20,64 @@ About：大整数相加
 About：水题
 
 ---
+#### ~~[1033. To Fill or Not to Fill](https://www.patest.cn/contests/pat-a-practise/1033)
+
+About：start,end,segeprice段 段间相减 排序 贪心
+
+---
+#### ~~[1034. Head of a Gang](https://www.patest.cn/contests/pat-a-practise/1034)
+
+About：邻接表 深度优先 todo
+
+---
+#### ~~[1035. Password](https://www.patest.cn/contests/pat-a-practise/1035)
+
+About：字符串
+
+---
+#### ~~[1036. Boys vs Girls](https://www.patest.cn/contests/pat-a-practise/1036)
+
+About：排序
+
+---
+#### ~~[1037. Magic Coupon](https://www.patest.cn/contests/pat-a-practise/1037)
+
+About：两对*两个set
+
+---
+#### [1038. Recover the Smallest Number](https://www.patest.cn/contests/pat-a-practise/1038)
+
+注意：
+
+当输入全为0时，结果输出0
+
+About：字符串 排序
+
+---
+#### ~~[1039. Course List for Student](https://www.patest.cn/contests/pat-a-practise/1039)
+
+About：数组 排序
+
+---
+#### [1040. Longest Symmetric String](https://www.patest.cn/contests/pat-a-practise/1040)
+
+解题思路：
+
+反转字符串即可转化为最长公共子串问题
+
+About：LCS
+
+---
+#### ~~[1041. Be Unique ](https://www.patest.cn/contests/pat-a-practise/1041)
+
+About：映射
+
+---
+#### ~~[1042. Shuffling Machine](https://www.patest.cn/contests/pat-a-practise/1042)
+
+About：映射
+
+---
 #### [1043. Is It a Binary Search Tree](https://www.patest.cn/contests/pat-a-practise/1043)
 
 About：BST前序转后序
