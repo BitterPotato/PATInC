@@ -2,6 +2,71 @@
 A Big Nerd Doing PAT [it seems a little hard to be accepted by using java, so ...]
 
 ---
+#### ~~[1010. Radix](https://www.patest.cn/contests/pat-a-practise/1010)
+
+About：二分查找
+
+---
+#### ~~[1011. World Cup Betting](https://www.patest.cn/contests/pat-a-practise/1011)
+
+About：水题
+
+---
+#### ~~[1012. The Best Rank](https://www.patest.cn/contests/pat-a-practise/1012)
+
+About：排序
+
+---
+#### ~~[1013. Battle Over Cities](https://www.patest.cn/contests/pat-a-practise/1013)
+
+About：dfs 连通部件个数
+
+---
+#### ~~[1014. Waiting in Line](https://www.patest.cn/contests/pat-a-practise/1014)
+
+About：队列
+
+---
+#### ~~[1015. Reversible Primes](https://www.patest.cn/contests/pat-a-practise/1015)
+
+About：素数 进制转换
+
+---
+#### ~~[1016. Phone Bills](https://www.patest.cn/contests/pat-a-practise/1016)
+
+About：排序
+
+---
+#### ~~[1017. Queueing at Bank](https://www.patest.cn/contests/pat-a-practise/1017)
+
+About：队列
+
+---
+#### ~~[1018. Public Bike Management](https://www.patest.cn/contests/pat-a-practise/1018)
+
+About：dfs todo
+
+---
+#### ~~[1019. General Palindromic Number](https://www.patest.cn/contests/pat-a-practise/1019)
+
+About：进制转换 反转字符串
+
+---
+#### ~~[1020. Tree Traversals](https://www.patest.cn/contests/pat-a-practise/1020)
+
+About：树的遍历
+
+---
+#### ~~[1021. Deepest Root](https://www.patest.cn/contests/pat-a-practise/1021)
+
+About：深度优先 todo
+
+---
+#### ~~[1022. Digital Library](https://www.patest.cn/contests/pat-a-practise/1022)
+
+About：Map
+
+---
 #### [1023. Have Fun with Numbers](https://www.patest.cn/contests/pat-a-practise/1023)
 
 解题思路：
@@ -18,6 +83,50 @@ About：大整数相加
 #### ~~[1024. Palindromic Number](https://www.patest.cn/contests/pat-a-practise/1024)~~
 
 About：水题
+
+---
+#### ~~[1025. PAT Ranking](https://www.patest.cn/contests/pat-a-practise/1025)~~
+
+About：排序
+
+---
+#### ~~[1026. Table Tennis](https://www.patest.cn/contests/pat-a-practise/1026)~~
+
+About：排序 队列
+
+---
+#### ~~[1027. Colors in Mars](https://www.patest.cn/contests/pat-a-practise/1027)~~
+
+About：水题 进制转换
+
+---
+#### ~~[1028. List Sorting](https://www.patest.cn/contests/pat-a-practise/1028)~~
+
+About：排序
+
+---
+#### ~~[1029. Median](https://www.patest.cn/contests/pat-a-practise/1029)~~
+
+About：双指针
+
+---
+#### [1030. Travel Plan](https://www.patest.cn/contests/pat-a-practise/1030)
+
+About：dfs 二维数组 回溯
+
+---
+#### ~~[1031. Hello World for U](https://www.patest.cn/contests/pat-a-practise/1031)
+
+About：水题
+
+---
+#### ~~[1032. Sharing](https://www.patest.cn/contests/pat-a-practise/1032)
+
+解题思路：
+
+返回第一个被访问两次的节点
+
+About：链表
 
 ---
 #### ~~[1033. To Fill or Not to Fill](https://www.patest.cn/contests/pat-a-practise/1033)

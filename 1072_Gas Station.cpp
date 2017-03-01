@@ -108,16 +108,3 @@
 //        printf("No Solution");
 //}
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <algorithm>
-#include <string>
-#include <string.h>
-#include <iostream>
-
-using namespace std;
-
-int main() {
-
-}
-
