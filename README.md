@@ -2,6 +2,51 @@
 A Big Nerd Doing PAT [it seems a little hard to be accepted by using java, so ...]
 
 ---
+#### [1001. A+B Format](https://www.patest.cn/contests/pat-a-practise/1001)
+
+About：格式化输出
+
+---
+#### [1002. A+B for Polynomials](https://www.patest.cn/contests/pat-a-practise/1002)
+
+About：双指针
+
+---
+#### [1003. Emergency](https://www.patest.cn/contests/pat-a-practise/1003)
+
+About：dfs
+
+---
+#### [1004. Counting Leaves](https://www.patest.cn/contests/pat-a-practise/1004)
+
+About：队列
+
+---
+#### [1005. Spell It Right](https://www.patest.cn/contests/pat-a-practise/1005)
+
+About：字符串
+
+---
+#### [1006. Sign In and Sign Out](https://www.patest.cn/contests/pat-a-practise/1006)
+
+About：排序
+
+---
+#### [1007. Maximum Subsequence Sum](https://www.patest.cn/contests/pat-a-practise/1007)
+
+About：最大子串和
+
+---
+#### [1008. Elevator](https://www.patest.cn/contests/pat-a-practise/1008)
+
+About：简单计算
+
+---
+#### ~~[1009. Product of Polynomials](https://www.patest.cn/contests/pat-a-practise/1009)
+
+About：映射
+
+---
 #### ~~[1010. Radix](https://www.patest.cn/contests/pat-a-practise/1010)
 
 About：二分查找
