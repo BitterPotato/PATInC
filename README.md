@@ -42,72 +42,72 @@ About：最大子串和
 About：简单计算
 
 ---
-#### ~~[1009. Product of Polynomials](https://www.patest.cn/contests/pat-a-practise/1009)
+#### ~~[1009. Product of Polynomials](https://www.patest.cn/contests/pat-a-practise/1009)~~
 
 About：映射
 
 ---
-#### ~~[1010. Radix](https://www.patest.cn/contests/pat-a-practise/1010)
+#### ~~[1010. Radix](https://www.patest.cn/contests/pat-a-practise/1010)~~
 
 About：二分查找
 
 ---
-#### ~~[1011. World Cup Betting](https://www.patest.cn/contests/pat-a-practise/1011)
+#### ~~[1011. World Cup Betting](https://www.patest.cn/contests/pat-a-practise/1011)~~
 
 About：水题
 
 ---
-#### ~~[1012. The Best Rank](https://www.patest.cn/contests/pat-a-practise/1012)
+#### ~~[1012. The Best Rank](https://www.patest.cn/contests/pat-a-practise/1012)~~
 
 About：排序
 
 ---
-#### ~~[1013. Battle Over Cities](https://www.patest.cn/contests/pat-a-practise/1013)
+#### ~~[1013. Battle Over Cities](https://www.patest.cn/contests/pat-a-practise/1013)~~
 
 About：dfs 连通部件个数
 
 ---
-#### ~~[1014. Waiting in Line](https://www.patest.cn/contests/pat-a-practise/1014)
+#### ~~[1014. Waiting in Line](https://www.patest.cn/contests/pat-a-practise/1014)~~
 
 About：队列
 
 ---
-#### ~~[1015. Reversible Primes](https://www.patest.cn/contests/pat-a-practise/1015)
+#### ~~[1015. Reversible Primes](https://www.patest.cn/contests/pat-a-practise/1015)~~
 
 About：素数 进制转换
 
 ---
-#### ~~[1016. Phone Bills](https://www.patest.cn/contests/pat-a-practise/1016)
+#### ~~[1016. Phone Bills](https://www.patest.cn/contests/pat-a-practise/1016)~~
 
 About：排序
 
 ---
-#### ~~[1017. Queueing at Bank](https://www.patest.cn/contests/pat-a-practise/1017)
+#### ~~[1017. Queueing at Bank](https://www.patest.cn/contests/pat-a-practise/1017)~~
 
 About：队列
 
 ---
-#### ~~[1018. Public Bike Management](https://www.patest.cn/contests/pat-a-practise/1018)
+#### ~~[1018. Public Bike Management](https://www.patest.cn/contests/pat-a-practise/1018)~~
 
 About：dfs todo
 
 ---
-#### ~~[1019. General Palindromic Number](https://www.patest.cn/contests/pat-a-practise/1019)
+#### ~~[1019. General Palindromic Number](https://www.patest.cn/contests/pat-a-practise/1019)~~
 
 About：进制转换 反转字符串
 
 ---
-#### ~~[1020. Tree Traversals](https://www.patest.cn/contests/pat-a-practise/1020)
+#### ~~[1020. Tree Traversals](https://www.patest.cn/contests/pat-a-practise/1020)~~
 
 About：树的遍历
 
 ---
-#### ~~[1021. Deepest Root](https://www.patest.cn/contests/pat-a-practise/1021)
+#### ~~[1021. Deepest Root](https://www.patest.cn/contests/pat-a-practise/1021)~~
 
 About：深度优先 todo
 
 ---
-#### ~~[1022. Digital Library](https://www.patest.cn/contests/pat-a-practise/1022)
+#### ~~[1022. Digital Library](https://www.patest.cn/contests/pat-a-practise/1022)~~
 
 About：Map
 
@@ -160,12 +160,12 @@ About：双指针
 About：dfs 二维数组 回溯
 
 ---
-#### ~~[1031. Hello World for U](https://www.patest.cn/contests/pat-a-practise/1031)
+#### ~~[1031. Hello World for U](https://www.patest.cn/contests/pat-a-practise/1031)~~
 
 About：水题
 
 ---
-#### ~~[1032. Sharing](https://www.patest.cn/contests/pat-a-practise/1032)
+#### ~~[1032. Sharing](https://www.patest.cn/contests/pat-a-practise/1032)~~
 
 解题思路：
 
@@ -174,27 +174,27 @@ About：水题
 About：链表
 
 ---
-#### ~~[1033. To Fill or Not to Fill](https://www.patest.cn/contests/pat-a-practise/1033)
+#### ~~[1033. To Fill or Not to Fill](https://www.patest.cn/contests/pat-a-practise/1033)~~
 
 About：start,end,segeprice段 段间相减 排序 贪心
 
 ---
-#### ~~[1034. Head of a Gang](https://www.patest.cn/contests/pat-a-practise/1034)
+#### ~~[1034. Head of a Gang](https://www.patest.cn/contests/pat-a-practise/1034)~~
 
 About：邻接表 深度优先 todo
 
 ---
-#### ~~[1035. Password](https://www.patest.cn/contests/pat-a-practise/1035)
+#### ~~[1035. Password](https://www.patest.cn/contests/pat-a-practise/1035)~~
 
 About：字符串
 
 ---
-#### ~~[1036. Boys vs Girls](https://www.patest.cn/contests/pat-a-practise/1036)
+#### ~~[1036. Boys vs Girls](https://www.patest.cn/contests/pat-a-practise/1036)~~
 
 About：排序
 
 ---
-#### ~~[1037. Magic Coupon](https://www.patest.cn/contests/pat-a-practise/1037)
+#### ~~[1037. Magic Coupon](https://www.patest.cn/contests/pat-a-practise/1037)~~
 
 About：两对*两个set
 
@@ -208,7 +208,7 @@ About：两对*两个set
 About：字符串 排序
 
 ---
-#### ~~[1039. Course List for Student](https://www.patest.cn/contests/pat-a-practise/1039)
+#### ~~[1039. Course List for Student](https://www.patest.cn/contests/pat-a-practise/1039)~~
 
 About：数组 排序
 
@@ -222,12 +222,12 @@ About：数组 排序
 About：LCS
 
 ---
-#### ~~[1041. Be Unique ](https://www.patest.cn/contests/pat-a-practise/1041)
+#### ~~[1041. Be Unique ](https://www.patest.cn/contests/pat-a-practise/1041)~~
 
 About：映射
 
 ---
-#### ~~[1042. Shuffling Machine](https://www.patest.cn/contests/pat-a-practise/1042)
+#### ~~[1042. Shuffling Machine](https://www.patest.cn/contests/pat-a-practise/1042)~~
 
 About：映射
 
@@ -560,3 +560,64 @@ About：链表 set 格式化输出
 #### [1097 Deduplication on a Linked List](https://www.patest.cn/contests/pat-a-practise/1097)
 
 About：链表 set 格式化输出
+
+---
+#### ~~[1101. Quick Sort](https://www.patest.cn/contests/pat-a-practise/1101)~~
+
+About：双set（左与右）
+
+---
+#### ~~[1102. Invert a Binary Tree](https://www.patest.cn/contests/pat-a-practise/1102)~~
+
+解题思路：
+
+1. 构建树的数组表示，并找出入度为0的节点作为根
+2. 将left视作right，right视作left，进行层序遍历和中序遍历
+
+About：二叉树
+
+---
+#### ~~[1103. Integer Factorization](https://www.patest.cn/contests/pat-a-practise/1103)~~
+
+About：递归 栈 dfs
+
+---
+#### ~~[1104. Sum of Number Segments](https://www.patest.cn/contests/pat-a-practise/1104)~~
+
+About：数学问题
+
+---
+#### ~~[1105. Spiral Matrix](https://www.patest.cn/contests/pat-a-practise/1105)~~
+
+About：数学问题
+
+---
+#### ~~[1118. Birds in Forest](https://www.patest.cn/contests/pat-a-practise/1118)~~
+
+About：并查集
+
+---
+#### [1120. Friend Numbers](https://www.patest.cn/contests/pat-a-practise/1120)
+
+About：set
+
+---
+#### [1121. Damn Single](https://www.patest.cn/contests/pat-a-practise/1121)
+
+About：set
+
+---
+#### [1122. Hamiltonian Cycle](https://www.patest.cn/contests/pat-a-practise/1122)
+
+About：图 映射
+
+---
+#### ~~[1123. Is It a Complete AVL Tree](https://www.patest.cn/contests/pat-a-practise/1123)~~
+
+注意：
+1. 旋转的时候勿忘改变节点的高度
+2. 通过在该层次遇到NULL之前的节点数是否等于该层次的总节点数，来判断完全二叉树
+
+> 测试点4未过
+
+About：AVL 层序遍历 完全二叉树
