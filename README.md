@@ -1,5 +1,9 @@
 # PATInC
-A Big Nerd Doing PAT [it seems a little hard to be accepted by using java, so ...]
+A Big Nerd Doing PAT [it seems a little hard to be accepted by using java, so ...
+
+**Notice**
+
+The practices with  text strikethrough do not have the corresponding code or their corresponding code are wrong...
 
 ---
 #### [1001. A+B Format](https://www.patest.cn/contests/pat-a-practise/1001)
@@ -592,6 +596,16 @@ About：数学问题
 About：数学问题
 
 ---
+#### [1107. Social Clusters](https://www.patest.cn/contests/pat-a-practise/1107)
+
+解题思路：
+1. 采用并查集的Root（以Root+1表示该cluster的人数），因此注意在union操作时对人数进行累计
+2. 对每人的兴趣进行union，对该人所在的并查集的Root进行人数增加
+3. 最后统计人数不为0的兴趣
+
+About：并查集 multiset
+
+---
 #### ~~[1118. Birds in Forest](https://www.patest.cn/contests/pat-a-practise/1118)~~
 
 About：并查集
@@ -621,3 +635,8 @@ About：图 映射
 > 测试点4未过
 
 About：AVL 层序遍历 完全二叉树
+
+---
+#### ~~[1126. Eulerian Path](https://www.patest.cn/contests/pat-a-practise/1126)~~
+
+About：图的度
